@@ -10,5 +10,5 @@ Relevant simulations are carried out via SUMO platform, and the results are avai
 Main contribution is the improved route planning, which includes multi-vehicle cooperation, local communication topology and dynamic traffic issues. 
 The results shows the proposed method provide a optimal route via online planning, which makes the ego vehicle find a faster way towards multiple targets. 
 Furthermore, the proposed method is able to schedule the multi-vehicle systems without locked cycle such as  
-![Locked cycle in time-based Dijstra](DJT (online-video-cutter.com) - frame at 3m18s.jpg)
+![Locked cycle in time-based Dijstra](https://github.com/ZNianHua/DMPC-planner-for-VRP/blob/main/DJT%20(online-video-cutter.com)%20-%20frame%20at%203m18s.jpg)
 ![Locked cycle in length-based Dijstra](https://github.com/ZNianHua/DMPC-planner-for-VRP/blob/main/DJL%20(online-video-cutter.com)%20(1)%20-%20frame%20at%204m0s.jpg)
