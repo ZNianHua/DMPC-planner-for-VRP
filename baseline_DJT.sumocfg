@@ -1,0 +1,21 @@
+<configuration>
+    <input>
+        <net-file value="sourceCICT.net.xml"/>
+        <route-files value="route_DJT.rou.xml"/>
+    </input>
+    <output>
+        <fcd-output value="fcd_DJT.xml"/>
+        <vehroute-output value="recorded_route_DJT.xml"/>
+        <queue-output value="queue_DJT.xml"/>
+    </output>
+    <time>
+        <begin value="0"/>
+        <!-- <end value="3600"/> -->
+    </time>
+    <simulation>
+        <time-to-teleport value="5000"/>
+    </simulation>
+    <report>
+        <verbose value="true"/>
+    </report>
+</configuration>
